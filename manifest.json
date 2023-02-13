@@ -36,10 +36,10 @@
    "src": "misc/icon64.png"
   }
  ],
- "theme_color": "#FFFFFF",
  "name": "BLASER - DEPILAÇÃO A LASER E ESTÉTICA",
  "description": "Tour Virtual B Laser",
- "start_url": "index.htm?installed=true",
  "display": "fullscreen",
- "background_color": "#FFFFFF"
+ "start_url": "index.htm?installed=true",
+ "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF"
 }
