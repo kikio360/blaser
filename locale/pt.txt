@@ -5,14 +5,15 @@
 ### URL
 LinkBehaviour_576101A6_4186_029B_41CD_08591BA4E6B7.source =  https://www.facebook.com/blaserrecife?mibextid=ZbWKwL
 LinkBehaviour_58680D94_418A_02BF_41B9_5B933EEB91DD.source =  https://www.facebook.com/blaserrecife?mibextid=ZbWKwL
-LinkBehaviour_58690D93_418A_02B9_4197_5884F1F51C8D.source = https://blaseroficial.com.br/
 LinkBehaviour_576011A4_4186_029F_41CA_4CCBFD849E3F.source = https://blaseroficial.com.br/
-LinkBehaviour_586AFD93_418A_02B9_41C6_65B8B46A2C17.source = https://instagram.com/b.laser_parnamirim?igshid=NTdlMDg3MTY=
+LinkBehaviour_58690D93_418A_02B9_4197_5884F1F51C8D.source = https://blaseroficial.com.br/
 LinkBehaviour_576141A6_4186_029B_41CE_647398E277FB.source = https://instagram.com/b.laser_parnamirim?igshid=NTdlMDg3MTY=
+LinkBehaviour_586AFD93_418A_02B9_41C6_65B8B46A2C17.source = https://instagram.com/b.laser_parnamirim?igshid=NTdlMDg3MTY=
 LinkBehaviour_58699D94_418A_02BF_41CE_0F10FED66483.source = https://maps.app.goo.gl/R3BUwiFhfqbYS5mA7
 LinkBehaviour_591A9F18_419A_1FA8_41C1_7AA3FBA83546.source = https://maps.app.goo.gl/R3BUwiFhfqbYS5mA7
-LinkBehaviour_593B5F05_419A_1F99_41CB_C7321C36ACFC.source = wa.me/+5581 996710221
+LinkBehaviour_42C5C9A1_5707_3E84_41D4_28D5E8C69B27.source = wa.me/+5563984453106
 LinkBehaviour_5869DD94_418A_02BF_41C2_E22B26E54489.source = wa.me/+5581 996710221
+LinkBehaviour_593B5F05_419A_1F99_41CB_C7321C36ACFC.source = wa.me/+5581 996710221
 
 ## Media
 
@@ -28,23 +29,23 @@ panorama_4A2A5FAB_4079_27F8_41BD_7F1EB4CDA02F.label = IMG_20230207_142345_00_237
 panorama_4A2A8375_4079_5F69_41C6_6CC8D233DDD7.label = IMG_20230207_142412_00_240-art-scale-1_00x
 panorama_4A2AFCB4_4079_69E8_41BD_24A651FC611B.label = IMG_20230207_142452_00_243-art-scale-1_00x
 panorama_4A2A9252_4079_58AB_4185_3E9EB650EDF4.label = IMG_20230207_142520_00_246-art-scale-1_00x
-panorama_4A227B3D_4077_68D9_41AF_10FA37B5E75C.label = Procedimento Corporal 
+panorama_4A227B3D_4077_68D9_41AF_10FA37B5E75C.label = Procedimento Facial 
 panorama_4C522509_4077_58B8_41C0_B5DE6D42757B.label = Procedimento Laser
 panorama_518530C5_408E_0299_41C7_1243FE9744C9.label = Recepçao
 panorama_4A257F83_4077_27A9_41B3_F01F6337C142.label = Sala Avaliaçao
 video_5F87D8FE_408A_0268_41C9_781C132114E7.label = video laser_1
 
 ### Video
-videolevel_5EC49F92_51A9_3A30_4194_09EA5065F23E.posterURL = media/video_5F87D8FE_408A_0268_41C9_781C132114E7_poster_pt.jpg
-videolevel_5EC49F92_51A9_3A30_4194_09EA5065F23E.url = media/video_5F87D8FE_408A_0268_41C9_781C132114E7_pt.mp4
+videolevel_4F110D27_5705_578C_4195_2A2FA0C35E74.posterURL = media/video_5F87D8FE_408A_0268_41C9_781C132114E7_poster_pt.jpg
+videolevel_4F110D27_5705_578C_4195_2A2FA0C35E74.url = media/video_5F87D8FE_408A_0268_41C9_781C132114E7_pt.mp4
 
 ## Skin
 
 ### Button
 Button_5762F19F_4186_02A9_41CE_72394551B48B_mobile.label = ENTRADA
 Button_5762F19F_4186_02A9_41CE_72394551B48B.label = ENTRADA
-Button_5762D1A2_4186_029B_41C5_2E224ABA5359.label = PROCEDIMENTO CORPORAL
 Button_5762D1A2_4186_029B_41C5_2E224ABA5359_mobile.label = PROCEDIMENTO FACIAL
+Button_5762D1A2_4186_029B_41C5_2E224ABA5359.label = PROCEDIMENTO FACIAL
 Button_5762F1A1_4186_0299_41C5_E8B81FC99A64_mobile.label = PROCEDIMENTO LASER
 Button_5762F1A1_4186_0299_41C5_E8B81FC99A64.label = PROCEDIMENTO LASER
 Button_5762D1A0_4186_0297_41C2_75BE291612A6.label = RECEPÇÃO
@@ -57,8 +58,8 @@ Image_3B13303B_2BBB_F8BD_41B9_240784E74CB7_mobile.url = skin/Image_3B13303B_2BBB
 Image_3B13303B_2BBB_F8BD_41B9_240784E74CB7.url = skin/Image_3B13303B_2BBB_F8BD_41B9_240784E74CB7_pt.png
 
 ### Multiline Text
+HTMLText_3646F67A_2CBB_98BE_41C5_E85755065867.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://digitalmktlocal.com.br" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#000000;font-size:14px;">Tour Virtual em 360 Graus desenvolvido pela KIKIÔ 360</SPAN><SPAN STYLE="color:#003399;font-size:14px;"><B>. Fone (63) 98445-3106 </B></SPAN></A></SPAN></SPAN></DIV></div>
 HTMLText_36BF3690_2CBA_984A_41AE_3F94F6AD0780.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">@ 2023 copyright todos os direitos reservados para </SPAN><SPAN STYLE="font-size:14px;"><B>BLASER</B></SPAN><SPAN STYLE="font-size:14px;">. Fica proibida qualquer reprodução dos vídeos e fotos sem prévia autorização.</SPAN></SPAN></DIV></div>
-HTMLText_3646F67A_2CBB_98BE_41C5_E85755065867.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">Tour VIrtual 360º desenvolvido por </SPAN><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://digitalmktlocal.com.br" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#003399;font-size:14px;"><B>digitalmktlocal.com.br </B></SPAN></A></SPAN></SPAN></DIV></div>
 HTMLText_56DCDBCD_419A_06A9_41B6_324375F544B6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;"><B>(81) 3204-7871 / (81) 99671-0221</B></SPAN></SPAN></DIV></div>
 HTMLText_36BF3690_2CBA_984A_41AE_3F94F6AD0780_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7px;">@ 2023 copyright todos os direitos reservados para </SPAN><SPAN STYLE="font-size:7px;"><B>BLASER</B></SPAN><SPAN STYLE="font-size:7px;">. Fica proibida qualquer reprodução dos vídeos e fotos sem prévia autorização.</SPAN></SPAN></DIV></div>
 HTMLText_3646F67A_2CBB_98BE_41C5_E85755065867_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7px;">Tour VIrtual 360º desenvolvido por </SPAN><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://digitalmktlocal.com.br" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#003399;font-size:7px;"><B>digitalmktlocal.com.br </B></SPAN></A></SPAN></SPAN></DIV></div>
